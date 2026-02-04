@@ -1,0 +1,8 @@
+# DUT RTL
+weighted_round_robin.sv
+
+# Assertions (SVA)
+weighted_round_robin_sva.sv
+
+bind_file.sv
+
